@@ -8,3 +8,12 @@
 
    ![q1Answer](images/q1Answer.png)
 
+2. Pet Clinic hosted locally:
+
+   ![q2Answer](images/q2Answer.png)
+
+3. Changed coordinates:
+
+   ![q3Answer](images/q3Answer.png)
+
+4. 

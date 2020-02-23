@@ -24,3 +24,15 @@
 
 ![q5Answer](images/q5Answer.png)
 
+6. Build Error
+
+   ![q6Answer](images/q6Answer.png)
+
+7. Error on readme.md:
+
+   ![q7Answer](images/q7Answer.png)
+
+8. Fixed pom.xml
+
+   ![q8Answer](images/q8Answer.png)
+

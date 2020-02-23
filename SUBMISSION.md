@@ -36,3 +36,9 @@
 
    ![q8Answer](images/q8Answer.png)
 
+9. Passing build with fixed coordinates![q9Answer](images/q9Answer.png)
+
+10. readme.md with passing build tag
+
+    ![q10Answer](images/q10Answer.png)
+

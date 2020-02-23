@@ -16,4 +16,11 @@
 
    ![q3Answer](images/q3Answer.png)
 
-4. 
+4. Build Success after successful change
+
+   ![q4Answer](images/q4Answer.png)
+
+5. Commented out coordinates
+
+![q5Answer](images/q5Answer.png)
+
